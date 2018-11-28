@@ -1,0 +1,52 @@
+# Made using Asset Forge (1.3)
+
+:models
+Golf/open[(-3, 0, 0);(0.0, 180.0, 0.0);(4.8, 0.1, 5.0);open_4;glass+golfBorder]
+Golf/straight[(-1.15, 0, -1.9);(0.0, 270.0, 0.0);(1.0, 0.1, 1.1);straight_6;element+glass]
+Golf/straight[(-1.15, 0, -2.24E-08);(0.0, 270.0, 0.0);(1.0, 0.1, 1.1);straight_7;element+glass]
+Golf/straight[(-1.15, 0, 1.8);(0.0, 270.0, 0.0);(1.0, 0.1, 1.1);straight_8;element+glass]
+Golf/straight[(-4.9, 0, -1.9);(0.0, 270.0, 0.0);(1.0, 0.1, 1.0);straight_9;element+glass]
+Golf/straight[(-4.9, 0, -2.24E-08);(0.0, 270.0, 0.0);(1.0, 0.1, 1.0);straight_10;element+glass]
+Golf/straight[(-4.9, 0, 1.8);(0.0, 270.0, 0.0);(1.0, 0.1, 1.0);straight_11;element+glass]
+Golf/straight[(-3.1, 0, -1.9);(0.0, 270.0, 0.0);(1.0, 0.1, 1.0);straight_15;element+glass]
+Golf/straight[(-3.1, 0, -2.24E-08);(0.0, 270.0, 0.0);(1.0, 0.1, 1.0);straight_16;element+glass]
+Golf/straight[(-3.1, 0, 1.8);(0.0, 270.0, 0.0);(1.0, 0.1, 1.0);straight_17;element+glass]
+Primitives/block_default[(-0.65, 0, 2.35);(0.0, 0.0, 0.0);(0.1, 1.6, 0.1);block_default_20;_defaultMat]
+Aircraft/detrail_strut[(-1.05, 1.4, 1.8);(0.0, 270.0, 0.0);(1.2, 0.3, 0.9);detrail_strut_21;_defaultMat]
+Primitives/block_piramid[(-1.45, 1.4, 2.35);(0.0, 270.0, 0.0);(0.3, 0.1, 0.3);block_piramid_22;_defaultMat]
+Buildings/roof_flat_largeCenter[(-3, 0, 2.4);(0.0, 90.0, 0.0);(0.1, 0.9, 4.9);roof_flat_largeCenter_29;_defaultMat+_defaultMat]
+Castles/door_gate[(-3.9, 0, 2);(0.0, 90.0, 0.0);(1.0, 1.0, 1.0);door_gate_30;wood]
+Castles/door_gate[(-2.9, 0, 2);(0.0, 90.0, 0.0);(1.0, 1.0, 1.0);door_gate_31;wood]
+Castles/door_gate[(-1.9, 0, 2);(0.0, 90.0, 0.0);(1.0, 1.0, 1.0);door_gate_32;wood]
+Castles/door_gate[(-0.95, 0, 2);(0.0, 90.0, 0.0);(1.0, 1.0, 0.9);door_gate_33;wood]
+Castles/door_gate[(-4.9, 0, 2);(0.0, 90.0, 0.0);(1.0, 1.0, 1.0);door_gate_34;wood]
+
+:materials
+border[RGBA(1.000, 0.518, 0.376, 1.000);]
+bricks[RGBA(0.886, 0.467, 0.341, 1.000);]
+element[RGBA(0.945, 0.949, 0.965, 1.000);]
+glass[RGBA(0.298, 0.314, 0.365, 1.000);]
+wood[RGBA(0.882, 0.579, 0.402, 1.000);]
+woodDark[RGBA(0.641, 0.422, 0.293, 1.000);]
+black[RGBA(0.267, 0.267, 0.267, 1.000);]
+_defaultMat[RGBA(1.000, 1.000, 1.000, 1.000);]
+darkStone[RGBA(0.431, 0.431, 0.478, 1.000);]
+stone[RGBA(0.667, 0.663, 0.737, 1.000);]
+lightStone[RGBA(0.812, 0.808, 0.855, 1.000);striping]
+roof[RGBA(0.886, 0.467, 0.341, 1.000);]
+golfGreen[RGBA(0.192, 0.949, 0.686, 1.000);grass]
+golfBorder[RGBA(1.000, 0.373, 0.204, 1.000);]
+woodLight[RGBA(0.922, 0.697, 0.561, 1.000);]
+roofJade[RGBA(0.302, 0.561, 0.431, 1.000);]
+orangeSteel[RGBA(1.000, 0.689, 0.000, 1.000);]
+blueSteel[RGBA(0.141, 0.565, 0.831, 1.000);]
+light[RGBA(1.000, 1.000, 1.000, 1.000);]
+tire[RGBA(0.298, 0.314, 0.365, 1.000);]
+customMaterial5[RGBA(1.000, 1.000, 1.000, 1.000);simplePolygons]
+customMaterial10[RGBA(1.000, 0.878, 0.000, 1.000);]
+lightBlue[RGBA(0.285, 0.562, 0.882, 1.000);]
+lightRed[RGBA(0.949, 0.373, 0.335, 1.000);]
+
+:textures
+
+:extra

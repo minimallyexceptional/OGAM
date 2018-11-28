@@ -1,0 +1,25 @@
+# Made using Asset Forge (1.3)
+
+:models
+City/roof_square[(0.05, 0, 1);(0.0, 90.0, 0.0);(1.0, 0.7, 0.9);roof_square_11;stone+stone]
+Primitives/block_default[(0, 0, 1);(0.0, 90.0, 0.0);(1.0, 0.5, 1.0);block_default_21;element]
+Primitives/block_piramid[(0, 0.5, 1);(0.0, 90.0, 0.0);(1.0, 0.3, 1.0);block_piramid_25;glass]
+Golf/straight[(-1.55, 0, 1.05);(0.0, 270.0, 0.0);(0.9, 0.3, 2.1);straight_37;stone+customMaterial4]
+City/wall_garageDoorClosed[(-0.25, 0, 1);(0.0, 0.0, 0.0);(0.5, 0.5, 0.8);wall_garageDoorClosed_39;stone+lightStone+glass+darkStone]
+
+:materials
+stone[RGBA(0.667, 0.663, 0.737, 1.000);]
+lightStone[RGBA(0.812, 0.808, 0.855, 1.000);]
+_defaultMat[RGBA(1.000, 1.000, 1.000, 1.000);]
+golfBorder[RGBA(1.000, 0.373, 0.204, 1.000);]
+golfGreen[RGBA(0.192, 0.949, 0.686, 1.000);]
+glass[RGBA(0.298, 0.314, 0.365, 1.000);]
+darkStone[RGBA(0.431, 0.431, 0.478, 1.000);]
+element[RGBA(0.945, 0.949, 0.965, 1.000);]
+customMaterial2[RGBA(0.373, 0.530, 0.388, 1.000);]
+customMaterial4[RGBA(0.170, 0.170, 0.170, 1.000);]
+customMaterial10[RGBA(1.000, 1.000, 0.794, 1.000);]
+
+:textures
+
+:extra
